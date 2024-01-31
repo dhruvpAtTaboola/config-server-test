@@ -1,0 +1,7 @@
+common.docker: true
+
+---
+spring:
+  profiles: docker_common_dev
+
+common.dev.docker: true

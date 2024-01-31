@@ -1,0 +1,6 @@
+---
+spring:
+  profiles:
+    active: dev
+    include: docker_common_dev
+  
