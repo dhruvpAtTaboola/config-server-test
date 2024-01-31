@@ -1,4 +1,3 @@
 ---
-spring:
-  config.activate.on-profile: dev
+spring.activate.profile: dev
 com.dhruv.db: devDB
