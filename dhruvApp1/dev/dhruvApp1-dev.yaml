@@ -1,0 +1,5 @@
+---
+spring:
+  profiles:
+    active: dev
+com.dhruv.db: devDB
