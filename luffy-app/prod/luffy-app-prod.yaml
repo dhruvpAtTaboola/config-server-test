@@ -1,2 +1,6 @@
 ---
+spring:
+  profiles:
+    active: qa
+    include: docker
 com.luffy.db: prodDBLuffy
