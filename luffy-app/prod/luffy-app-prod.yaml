@@ -1,6 +1,2 @@
 ---
-spring:
-  profiles:
-    active: prod
-    include: docker
-com.luffy.db: prodDBLuffygst
+com.luffy.db: prodDBLuffy
